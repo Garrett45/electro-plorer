@@ -21,3 +21,4 @@ document.head.appendChild(securePolicy);
 
 // Render the app into the root div
 render(<BrowserRouter><App /></BrowserRouter>, document.getElementById('root'))
+// GARRETT IS A? HUMAN? MALE? ALIVE? REAL? AM I IN A SIMULATION?
